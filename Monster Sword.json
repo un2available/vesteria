@@ -1,3 +1,10 @@
 {
-    "price": 200
+    "price": "N/A",
+    "fierce_price": "N/A",
+    "swift_price": "N/A",
+    "keen_price": "N/A",
+    "vibrant_price":"N/A",
+    "pristine_price":"N/A",
+    "legendary_price":"N/A",
+    "demand": ""
 }
